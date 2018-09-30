@@ -1,5 +1,3 @@
-# ŞAKİRİN YENİ ALTYAPISIMA HOŞGELDİNİZ
+# Musti
 
-
-:)
-DOSYALARIN YARISI SONRA GELICEKTIR
+ananı bi sikerim senin çocoh
