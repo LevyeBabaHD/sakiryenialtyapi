@@ -1,1 +1,0 @@
-Şakir node index.js
