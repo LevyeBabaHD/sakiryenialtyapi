@@ -688,7 +688,7 @@ client.on('error', err => {
 	console.log(err)
 });
 
-client.login(ayarlar.token);
+client.login(process.env.BOT_TOKEN);
 
 async function randomString(length, chars) {
   var mask = '';
